@@ -48,22 +48,20 @@ This project is designed to be extended to play endless runner games using your 
    cd pose-gesture-detection
    ```
 2. **Install required packages:**
-
-  ```bash
-  pip install opencv-python mediapipe matplotlib pyautogui
-  ```
+   ```bash
+     pip install opencv-python mediapipe matplotlib pyautogui
+     ```
 3. **Run the Program**
-   
-  ```bash
-  python main.py
-  ```
-  This will:
+   ```bash
+     python main.py
+     ```
+   This will:
 
-  -Open your webcam
+   - Open your webcam
 
-  -Detect pose and classify gestures
+   - Detect pose and classify gestures
 
-  -Optionally simulate key presses using gestures
+   - Optionally simulate key presses using gestures
 
 ---
 
@@ -84,8 +82,8 @@ This project is designed to be extended to play endless runner games using your 
 ## 🙌 Credits
 Built using:
 
--MediaPipe Pose
+- MediaPipe Pose
 
--OpenCV
+- OpenCV
 
--PyAutoGUI
+- PyAutoGUI
