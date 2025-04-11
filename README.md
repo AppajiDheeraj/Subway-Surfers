@@ -5,7 +5,7 @@ A Python-based computer vision system that uses **MediaPipe Pose** to recognize 
 <br>
 
 ---
-
+<br>
 ## 🎮 Use Case: Play Games with Your Body!
 
 This project is designed to be extended to play endless runner games using your body:
@@ -22,7 +22,7 @@ This project is designed to be extended to play endless runner games using your 
 <br>
 
 ---
-
+<br>
 ## 📦 Features
 
 - ✅ Real-time pose tracking using **MediaPipe**
@@ -35,7 +35,7 @@ This project is designed to be extended to play endless runner games using your 
 <br>
 
 ---
-
+<br>
 ## 🧰 Tech Stack
 
 - Python 🐍
@@ -47,7 +47,7 @@ This project is designed to be extended to play endless runner games using your 
   <br>
 
 ---
-
+<br>
 ## 🔧 Installation
 
 1. **Clone the repository:**
@@ -74,7 +74,7 @@ This project is designed to be extended to play endless runner games using your 
 <br>
 
 ---
-
+<br>
 ## 📁 Project Structure
 
 ```bash
@@ -84,12 +84,12 @@ This project is designed to be extended to play endless runner games using your 
 ```
 <br>
 ---
-
+<br>
 ## 📸 Screenshots
 [Insert demo video or GIF link here once available]
 <br>
 ---
-
+<br>
 ## 🙌 Credits
 Built using:
 
