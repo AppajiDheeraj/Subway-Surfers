@@ -4,6 +4,11 @@ A Python-based computer vision system that uses **MediaPipe Pose** to recognize 
 
 ![Demo](./media/subway_surfers-ezgif.com-optimize.gif)
 
+<p align="center">
+  <img src="./media/subway_surfers-ezgif.com-optimize.gif" width="45%" />
+  <img src="./media/templerun.gif" width="45%" />
+</p>
+
 ---
 
 ## 🎮 Use Case: Play Games with Your Body!
