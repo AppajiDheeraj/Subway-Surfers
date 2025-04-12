@@ -2,11 +2,9 @@
 
 A Python-based computer vision system that uses **MediaPipe Pose** to recognize body gestures like **jumping**, **crouching**, **hand-joining**, and **horizontal movement** to control games like **Subway Surfers** or **Temple Run** without touching a keyboard!
 
-![Demo](./media/subway_surfers-ezgif.com-optimize.gif)
-
 <p align="center">
-  <img src="./media/subway_surfers-ezgif.com-optimize.gif" width="45%" />
-  <img src="./media/templerun.gif" width="45%" />
+  <img src="./media/subway_surfers-ezgif.com-optimize.gif" width="50%" />
+  <img src="./media/templerun.gif" width="50%" />
 </p>
 
 ---
