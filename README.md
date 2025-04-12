@@ -2,6 +2,8 @@
 
 A Python-based computer vision system that uses **MediaPipe Pose** to recognize body gestures like **jumping**, **crouching**, **hand-joining**, and **horizontal movement** to control games like **Subway Surfers** or **Temple Run** without touching a keyboard!
 
+![Demo](./media/subway_surfers-ezgif.com-optimize.gif)
+
 ---
 
 ## 🎮 Use Case: Play Games with Your Body!
@@ -77,11 +79,6 @@ This project is designed to be extended to play endless runner games using your 
 ├── subwaySurfers.py       # Main script to run the real-time system
 ├── README.md              # Project documentation
 ```
-
----
-
-## 📸 Screenshots
-[Insert demo video or GIF link here once available]
 
 ---
 
